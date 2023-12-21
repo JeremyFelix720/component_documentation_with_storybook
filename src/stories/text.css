@@ -1,0 +1,29 @@
+.storybook-text {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* SIZE */
+
+.storybook-text--small {
+  font-size: 12px;
+}
+
+.storybook-text--medium {
+  font-size: 16px;
+}
+
+.storybook-text--large {
+  font-size: 20px;
+}
+
+
+/* WEIGHT */
+
+.storybook-text--regular {
+  font-weight: normal;
+}
+
+.storybook-text--bold {
+  font-weight: bold;
+}
